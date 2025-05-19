@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "",
+SESSION_ID: process.env.SESSION_ID || "malvin~UysHSKJC#CvTVrtKJcH_RaZgTw5qVd0IE_5sSRuM_16krC6-Hx7U",
 // add your Session Id make sure it starts with malvin~
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
@@ -62,13 +62,13 @@ MODE: process.env.MODE || "public",
           DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
 
-          OWNER_NUMBER: process.env.OWNER_NUMBER || "26371475XXXX",
+          OWNER_NUMBER: process.env.OWNER_NUMBER || "255672562733",
 // add your bot owner number
 
-OWNER_NAME: process.env.OWNER_NAME || "ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ",
+OWNER_NAME: process.env.OWNER_NAME || "Iamdan_james",
 // add bot owner name
 
-              DESCRIPTION: process.env.DESCRIPTION || " *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ*",
+              DESCRIPTION: process.env.DESCRIPTION || "*Iamdan_james*",
 // add bot owner name    
 
         READ_MESSAGE: process.env.READ_MESSAGE || "false",
@@ -91,7 +91,7 @@ OWNER_NAME: process.env.OWNER_NAME || "ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ",
               AUTO_REPLY: process.env.AUTO_REPLY || "false",
 // make true or false automatic text reply 
 
-        ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
+        ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
 // maks true for always online 
 
          PUBLIC_MODE: process.env.PUBLIC_MODE || "false",
@@ -103,7 +103,7 @@ OWNER_NAME: process.env.OWNER_NAME || "ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ",
    READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
 
-     DEV: process.env.DEV || "263780166288",
+     DEV: process.env.DEV || "255672562733",
 //replace with your whatsapp number    
     
     ANTI_VV: process.env.ANTI_VV || "true",
@@ -134,7 +134,7 @@ START_MSG: process.env.START_MSG || `*Hᴇʟʟᴏ ᴛʜᴇʀᴇ ᴍᴀʟᴠɪɴ 
 > ᴅᴏɴᴛ ғᴏʀɢᴇᴛ ᴛᴏ sʜᴀʀᴇ, sᴛᴀʀ &ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ ⬇️ 
     https://github.com/XdKing2/MALVIN-XD
 
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ 🇿🇼`
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ 🇹🇿`
 };
 
 
